@@ -1,0 +1,14 @@
+@import 'vars';
+
+.error-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: x-large;
+  height: 600px;
+}
+
+h1{
+  font-size: 70px;
+}
